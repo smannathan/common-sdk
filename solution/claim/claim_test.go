@@ -14,13 +14,13 @@
 package claim
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/data_model"
-	"common/bchcls/datatype"
-	"common/bchcls/init_common"
-	"common/bchcls/test_utils"
-	"common/bchcls/user_mgmt"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/datatype"
+	"github.com/smannathan/common-sdk/common/bchcls/init_common"
+	"github.com/smannathan/common-sdk/common/bchcls/test_utils"
+	"github.com/smannathan/common-sdk/common/bchcls/user_mgmt"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 

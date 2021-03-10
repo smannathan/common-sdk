@@ -13,15 +13,15 @@
 package claim
 
 import (
-	"common/bchcls/asset_mgmt"
-	"common/bchcls/asset_mgmt/asset_key_func"
-	"common/bchcls/cached_stub"
-	"common/bchcls/custom_errors"
-	"common/bchcls/data_model"
-	"common/bchcls/history"
-	"common/bchcls/key_mgmt"
-	"common/bchcls/simple_rule"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/asset_mgmt"
+	"github.com/smannathan/common-sdk/common/bchcls/asset_mgmt/asset_key_func"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/history"
+	"github.com/smannathan/common-sdk/common/bchcls/key_mgmt"
+	"github.com/smannathan/common-sdk/common/bchcls/simple_rule"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 	"encoding/json"
 	"strconv"
 
