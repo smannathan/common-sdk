@@ -1,4 +1,4 @@
-module ibm.com/common/bchcls
+module github.com/smannathan/common-sdk/common/bchcls
 
 go 1.14
 
