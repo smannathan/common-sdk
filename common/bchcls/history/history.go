@@ -3,12 +3,12 @@
 package history
 
 import (
-	"common/bchcls/asset_mgmt/asset_manager"
-	"common/bchcls/cached_stub"
-	"common/bchcls/data_model"
-	"common/bchcls/history/history_manager"
-	"common/bchcls/internal/history_i"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/asset_mgmt/asset_manager"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/history/history_manager"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/history_i"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 )

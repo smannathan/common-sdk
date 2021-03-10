@@ -3,13 +3,13 @@
 package datatype_c
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/custom_errors"
-	"common/bchcls/data_model"
-	"common/bchcls/datatype/datatype_interface"
-	"common/bchcls/internal/common/global"
-	"common/bchcls/internal/common/graph"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/datatype/datatype_interface"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/graph"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 	"encoding/json"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"

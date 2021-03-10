@@ -3,12 +3,12 @@
 package datatype
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/data_model"
-	"common/bchcls/datatype/datatype_interface"
-	"common/bchcls/internal/common/global"
-	"common/bchcls/internal/datatype_i"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/datatype/datatype_interface"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/datatype_i"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 )

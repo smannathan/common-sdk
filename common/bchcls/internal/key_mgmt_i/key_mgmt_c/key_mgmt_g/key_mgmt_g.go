@@ -3,5 +3,5 @@
 package key_mgmt_g
 
 import (
-	"common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
 )

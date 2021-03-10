@@ -3,10 +3,10 @@
 package cached_stub
 
 import (
-	"common/bchcls/crypto"
-	"common/bchcls/custom_errors"
-	"common/bchcls/internal/common/global"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/crypto"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"sort"
 

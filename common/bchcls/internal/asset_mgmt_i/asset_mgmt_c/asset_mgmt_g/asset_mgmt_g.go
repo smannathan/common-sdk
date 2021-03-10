@@ -5,6 +5,6 @@ package asset_mgmt_g
 import (
 	"strings"
 
-	"common/bchcls/crypto"
-	"common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/crypto"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
 )

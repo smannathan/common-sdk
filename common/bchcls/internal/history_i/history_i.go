@@ -3,17 +3,17 @@
 package history_i
 
 import (
-	"common/bchcls/asset_mgmt/asset_manager"
-	"common/bchcls/cached_stub"
-	"common/bchcls/crypto"
-	"common/bchcls/custom_errors"
-	"common/bchcls/data_model"
-	"common/bchcls/history/history_manager"
-	"common/bchcls/index"
-	"common/bchcls/internal/asset_mgmt_i"
-	"common/bchcls/internal/common/global"
-	"common/bchcls/simple_rule"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/asset_mgmt/asset_manager"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/crypto"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/history/history_manager"
+	"github.com/smannathan/common-sdk/common/bchcls/index"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/asset_mgmt_i"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/simple_rule"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"encoding/json"
 	"math/rand"

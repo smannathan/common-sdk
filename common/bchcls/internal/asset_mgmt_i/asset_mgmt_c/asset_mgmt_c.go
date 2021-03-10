@@ -3,11 +3,11 @@
 package asset_mgmt_c
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/custom_errors"
-	"common/bchcls/data_model"
-	"common/bchcls/internal/asset_mgmt_i/asset_mgmt_c/asset_mgmt_g"
-	"common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/asset_mgmt_i/asset_mgmt_c/asset_mgmt_g"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
 
 	"encoding/json"
 

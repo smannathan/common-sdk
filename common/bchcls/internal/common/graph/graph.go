@@ -3,10 +3,10 @@
 package graph
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/custom_errors"
-	"common/bchcls/internal/common/global"
-	"common/bchcls/simple_rule"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/simple_rule"
 
 	"encoding/json"
 	"strings"

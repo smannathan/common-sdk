@@ -3,7 +3,7 @@
 package simple_rule
 
 import (
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 	"github.com/pkg/errors"

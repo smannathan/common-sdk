@@ -3,11 +3,11 @@
 package cloudant
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/crypto"
-	"common/bchcls/datastore"
-	"common/bchcls/internal/common/global"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/crypto"
+	"github.com/smannathan/common-sdk/common/bchcls/datastore"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"encoding/hex"
 	"encoding/json"

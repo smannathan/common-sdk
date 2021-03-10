@@ -3,7 +3,7 @@
 package crypto
 
 import (
-	"common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
 
 	"crypto/aes"
 	"crypto/cipher"

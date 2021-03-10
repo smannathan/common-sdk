@@ -3,9 +3,9 @@
 package test
 
 import (
-	"common/bchcls/crypto"
-	"common/bchcls/custom_errors"
-	"common/bchcls/test_utils"
+	"github.com/smannathan/common-sdk/common/bchcls/crypto"
+	"github.com/smannathan/common-sdk/common/bchcls/custom_errors"
+	"github.com/smannathan/common-sdk/common/bchcls/test_utils"
 
 	"bytes"
 	"crypto/rsa"

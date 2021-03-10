@@ -3,8 +3,8 @@
 package test_utils
 
 import (
-	"common/bchcls/data_model"
-	"common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/data_model"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 

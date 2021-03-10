@@ -3,6 +3,6 @@
 package datastore
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/internal/common/global"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/common/global"
 )

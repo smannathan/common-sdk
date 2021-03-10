@@ -3,12 +3,12 @@
 package cloudant_index
 
 import (
-	"common/bchcls/cached_stub"
-	"common/bchcls/crypto"
-	"common/bchcls/datastore"
-	"common/bchcls/internal/datastore_i/datastore_c"
-	"common/bchcls/internal/datastore_i/datastore_c/cloudant"
-	"common/bchcls/utils"
+	"github.com/smannathan/common-sdk/common/bchcls/cached_stub"
+	"github.com/smannathan/common-sdk/common/bchcls/crypto"
+	"github.com/smannathan/common-sdk/common/bchcls/datastore"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/datastore_i/datastore_c"
+	"github.com/smannathan/common-sdk/common/bchcls/internal/datastore_i/datastore_c/cloudant"
+	"github.com/smannathan/common-sdk/common/bchcls/utils"
 
 	"encoding/json"
 	"net/url"
